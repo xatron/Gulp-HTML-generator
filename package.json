@@ -1,0 +1,21 @@
+{
+  "name": "project_boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-inject-partials": "^1.0.1",
+    "gulp-inject-string": "^1.1.0",
+    "gulp-strip-comments": "^2.4.3",
+    "gulp-template": "^4.0.0"
+  }
+}
